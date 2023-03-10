@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "fk" << std::endl;
+    std::cout << "fck" << std::endl;
     return 0;
 }
